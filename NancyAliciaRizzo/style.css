@@ -24,7 +24,7 @@
 .contacto a {
     display: none;
     
-    @media(min-width: 48em;){
+    @media(min-width: 48em){
         padding: 8px;
         text-decoration: none;
         color: black;
