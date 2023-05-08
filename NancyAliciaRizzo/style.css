@@ -22,9 +22,14 @@
 }
 
 .contacto a {
-    padding: 8px;
-    text-decoration: none;
-    color: black;
+    display: none;
+    
+    @media(min-width: 48em;){
+        padding: 8px;
+        text-decoration: none;
+        color: black;
+        display:block;
+    }
 }
 
 
