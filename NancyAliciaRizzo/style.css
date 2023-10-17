@@ -12,7 +12,8 @@
     padding: 5px;
     background-color: white;
     border-bottom: rgba(255, 118, 55, 0.74) 1px solid;
-    position: sticky;
+    position: fixed;
+    width: 100%;
     top: 0;
 }
 
@@ -43,6 +44,7 @@
     align-items: center;
     justify-content: left;
     min-height: 500px;
+    margin-top: 45px;
 }
 
 .titulo {
